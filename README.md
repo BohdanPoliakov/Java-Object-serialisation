@@ -1,4 +1,4 @@
-# 7. Lab. thesis
+# 7. Lab. task
 Explore Main.java. The given program executes the following operations:
 * Displays a menu containing the five commands Create, Calculate, View, About and Exit and enters the command number from the keyboard.
 * If the user selects the Create command, the program creates a Students.dat file (in the current folder) and writes the five Student objects of the class to the file.
