@@ -9,7 +9,3 @@ Explore Main.java. The given program executes the following operations:
 # Task:
 Modify the calculate and about methods so that they do the following:
 * The calculate method must enter the student number from the keyboard (assume that the students are numbered from one) and modify the grades of the student given in the Students.dat file. Enter new grades from the keyboard. If a negative student number was entered or the number exceeds the number of students in the file, the program should output the message "no such student"
-
-
-
-Translated with DeepL.com (free version)
